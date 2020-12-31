@@ -1,5 +1,4 @@
-# aws_cloud_servers
-# aws-cloud-server2
+# AWS Cloud Server CLI
 
 Learning how to deploy applications to AWS through GitHub and the command line.
 
